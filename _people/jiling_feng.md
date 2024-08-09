@@ -3,7 +3,7 @@ title: jiling_feng
 layout: people
 permalink: /people/jiling_feng
 status: Staff
-pname: Jiling Feng
+pname: Jiling Feng, PhD
 position: Research accociate 
 office: 
 eml: 
