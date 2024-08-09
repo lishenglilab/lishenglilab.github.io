@@ -8,7 +8,7 @@
 
 wechat:
   name: "WeChat"
-  baseURL: "https://weixin.qq.com/"
+  baseURL: "https://mp.weixin.qq.com/"
   icon: "fa-weixin"
 
 facebook:
