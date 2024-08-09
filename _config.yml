@@ -24,7 +24,7 @@ navbar-links:
   People: "people"
   Publications: "publication"
   Resources: "resources"
-  follow us: 
+# follow us: 
       - WeChat Official Account: "https://mp.weixin.qq.com/s/TfNN1VJfPyxtVP9akEf9Og"
 #  About Me: "aboutme"
 #  Resources:
@@ -77,8 +77,8 @@ social-network-links:
   wechat: woyebuzhidao
   email: "shengli.li@sjtu.edu.cn"
 #  facebook: deanattali
-  github: shengnan-Luo
-  twitter: 
+  github: lishenglilab
+#  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
