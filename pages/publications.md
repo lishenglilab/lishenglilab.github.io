@@ -11,7 +11,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2024
-61. Zhiqiang Zhang, Shan Wang, Lulu Jiang, Jianwen Wei, Chang Lu, **Shengli Li**, Yizhu Diao, Zhongcheng Feng, Shuo He, Tingting Tan, Yisheng Yang, Kexin Zou, Jiantao Shi, James Lin, Liye Chen, Chaohui Bao, Jian Fei, and Hai Fang. [Priority index for critical Covid-19 identifies clinically actionable targets and drugs](https://pubmed.ncbi.nlm.nih.gov/38366110/). Communications Biology*. 2024 Feb 16;7(1):189.
+61. Zhiqiang Zhang, Shan Wang, Lulu Jiang, Jianwen Wei, Chang Lu, **Shengli Li**, Yizhu Diao, Zhongcheng Feng, Shuo He, Tingting Tan, Yisheng Yang, Kexin Zou, Jiantao Shi, James Lin, Liye Chen, Chaohui Bao, Jian Fei, and Hai Fang. [Priority index for critical Covid-19 identifies clinically actionable targets and drugs](https://pubmed.ncbi.nlm.nih.gov/38366110/). *Communications Biology*. 2024 Feb 16;7(1):189.
 - Jiling Feng#, Hao Wu#, and **Shengli Li***. Noncanonical translation of circRNAs drive antitumor immunity. Trends in Cancer. 2024 Feb;10(2):100-102.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/38242823/)
 - Yaoming Liu#, Wei Hu#, Yanjie Xie#, Junjie Tang, Huan Ma, Jinmiao Li, Jiahe Nie, Yinghao Wang, Yang Gao, Chao Cheng, Cheng Li, Yujun Ma, Shicai Su, Zhihui Zhang, Yuekun Bao, Yi Ren, Xinyue Wang, Fengyu Sun, **Shengli Li***, and Rong Lu**. Single-cell transcriptomics enable the characterization of local extension in retinoblastoma. Communications Biology. 2024 Jan 3;7(1):11.
@@ -27,7 +27,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37589744/)
 - Jiling Feng#, Yu Zeng#, and **Shengli Li***. Single-cell characterization of tumor evolution from precursor diseases. Trends in Cancer. 2023 Aug 4;S2405-8033(23)00139-5.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37544795/)
-- Hao Wu#, Jiao Wang#, Xiaoyuan Hu, Zhuang Cheng, Jianxin Zhou, Peiru Wu, **Shengli Li***, and Robert Chunhua Zhao*. Comprehensive transcript-level analysis reveals transcriptional reprogramming during the progression of Alzheimer's disease. Frontiers in Aging Neuroscience. 2023 Jun 15;15:1191680.
+- Hao Wu#, Jiao Wang#, Xiaoyuan Hu, Zhuang Cheng, Jianxin Zhou, Peiru Wu, **Shengli Li***, and Robert Chunhua Zhao *. Comprehensive transcript-level analysis reveals transcriptional reprogramming during the progression of Alzheimer's disease. Frontiers in Aging Neuroscience. 2023 Jun 15;15:1191680.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37396652/)
 - Yu Dong#, Qian Gao#, Yong Chen#, Zhao Zhang#, Yanhua Du#, Yuan Liu, Guangxiong Zhang, **Shengli Li**, Gaoyang Wang, Xiang Chen*, Hong Liu*, Leng Han*, and Youqiong Ye*. Identification of circRNA signature associated with tumor immune infiltration to predict therapeutic efficacy of immunotherapy. Nature Communications. 2023 May 3;14(1):2540.
 [[Abstract]](https://pubmed.ncbi.nlm.nih.gov/37137884/)
