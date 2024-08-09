@@ -6,7 +6,7 @@ status: Postgraduate student
 pname: Shengnan Luo
 position: Postgraduate student
 office: 
-eml: luoshengnan02{AT}163.com
+eml: 
 website:
 cv: 
 github:
