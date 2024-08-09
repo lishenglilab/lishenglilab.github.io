@@ -25,7 +25,7 @@ navbar-links:
   Publications: "publication"
   Resources: "resources"
 # follow us: 
-      - WeChat Official Account: "https://mp.weixin.qq.com/s/TfNN1VJfPyxtVP9akEf9Og"
+#     - WeChat Official Account: "https://mp.weixin.qq.com/s/TfNN1VJfPyxtVP9akEf9Og"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -74,7 +74,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: false
-  wechat: woyebuzhidao
+  wechat: /s/TfNN1VJfPyxtVP9akEf9Og
   email: "shengli.li@sjtu.edu.cn"
 #  facebook: deanattali
   github: lishenglilab
