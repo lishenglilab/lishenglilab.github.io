@@ -24,6 +24,8 @@ navbar-links:
   People: "people"
   Publications: "publication"
   Resources: "resources"
+  Contact us: 
+      - WeChat Official Account: "https://mp.weixin.qq.com/s/TfNN1VJfPyxtVP9akEf9Og"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
