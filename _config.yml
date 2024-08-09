@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
- title: Li Lab
+title: Li Lab
 
 # Short description of your site
 description: Shengli Li Lab at SJTU
@@ -32,12 +32,12 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "img/logo.png"
+#avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: img/test.png
- 
+# title-img: /path/to/image
+
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 # rss: false
-# email: "shengli.li@sjtu.edu.cn"
+  email: "shengli.li@sjtu.edu.cn"
 #  facebook: deanattali
-#  github: lishenglilab
-#  twitter: 
+  github: shengnan-Luo
+  twitter: 
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
