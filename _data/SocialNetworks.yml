@@ -6,7 +6,10 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
-
+wechat:
+  name: "WeChat"
+  baseURL: "https://weixin.qq.com/"
+  icon: "fa-weixin"
 
 facebook:
   name: "Facebook"
