@@ -15,5 +15,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Feng Yuanlong, currently pursuing graduate studies at Shanghai University of Traditional Chinese Medicine, blends expertise in Traditional Chinese Medicine with cutting-edge research in deep learning and bioinformatics. His work aims to bridge modern technology with traditional practices to push the boundaries of healthcare innovation.
+desp: Feng Yuanlong is currently pursuing graduate studies at Shanghai University of Traditional Chinese Medicine, where he seamless integrates expertise in Traditional Chinese Medicine with state-of-the-art research in deep learning and bioinformatics. His work is dedicated to bridging modern technology with traditional practices, thereby advancing the frontiers of healthcare innovation.
 ---
