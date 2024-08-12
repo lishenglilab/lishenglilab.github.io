@@ -15,5 +15,5 @@ google_scholar:
 twitter: 
 facebook: 
 instagram:
-desp: Hao Wu is a Computational Technician at Shanghai General Hospital. He holds a master's degree from Shanghai University and specializes in using bioinformatics and advanced sequencing technologies (long-read RNA sequencing, direct RNA sequencing, etc.) to investigate disease mechanisms and identify new therapeutic targets. 
+desp: Hao Wu is a Computational Technician at Shanghai General Hospital affiliated to Shanghai Jiao Tong University School of Medicine. He holds a master's degree from Shanghai University, specializing in the application of bioinformatics and cutting-edge sequencing technologies, such as long-read RNA sequencing and direct RNA sequencing, to explore disease mechanisms and pinpoint novel therapeutic targets. 
 ---
