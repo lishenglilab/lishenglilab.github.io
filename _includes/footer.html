@@ -1,51 +1,62 @@
-<footer>
+<footer style="background-color: #f5f5f5; padding: 20px 0; color: #777777;">
   <div class="container beautiful-jekyll-footer">
     <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-          {%- for link in site.social-network-links -%}
-            {%- assign curkey = link[0] -%}
-            {%- assign element = site.data.SocialNetworks[curkey] -%}
-            <li>
-            {%- if curkey == 'rss' -%}
-              <a href="{{ '/feed.xml' | relative_url }}" title="{{ element.name }}">
-            {%- elsif curkey == 'yelp' -%}
-              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
-            {%- else -%}
-              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
-            {%- endif -%}
-                <span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
-                </span>
-                <span class="sr-only">{{ element.name }}</span>
-              </a>
-            </li>
-          {%- endfor -%}
+
+      <!-- 联系我们 (Contact Us) -->
+<div class="col-md-4 footer-contact">
+  <h4>Contact Us</h4>
+  <p>
+    <i class="fa fa-map-marker" aria-hidden="true"></i> 650 Xin Songjiang Road, Songjiang District, Shanghai, China
+  </p>
+  <p>
+    <i class="fa fa-envelope" aria-hidden="true"></i> Email<br>
+    <a href="mailto:shengli.li@sjtu.edu.cn" style="color: #777777;">shengli.li@sjtu.edu.cn</a>
+  </p>
+</div>
+
+
+
+
+      <!-- 常用链接 (Common Links) -->
+      <div class="col-md-4">
+        <h4>Common Links</h4>
+        <br>
+        <ul class="list-unstyled" style="line-height: 1.5;">
+          <li><a href="https://www.shgh.cn/tmc/index.html" style="color: #777777;">Shanghai General Hospital Institute For Clinical Research</a></li>
+          <li><a href="https://www.shsmu.edu.cn/" style="color: #777777;">Shanghai Jiao Tong University School of Medicine</a></li>
+          <li><a href="https://www.sjtu.edu.cn" style="color: #777777;">Shanghai Jiao Tong University</a></li>
+          <li><a href="https://www.firsthospital.cn/home/index.html" style="color: #777777;">Shanghai General Hospital</a></li>
         </ul>
-      <p class="copyright text-muted">
-      {{ site.author.name }}
-      &nbsp;&bull;&nbsp;
-      {{ site.time | date: '%Y' }}
+      </div>
 
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
-      <a href="{{ '' | absolute_url }}">{{ site.url-pretty }}</a>
-      {% endif %}
+      <!-- 关注我们 (Follow Us) -->
+      <div class="col-md-4">
+        <h4>Follow Us</h4>
+        <div class="row">
+         <!-- 左侧 (Left Side) -->
+         <div class="col-md-8">
+         <p>
+          <i class="fa fa-weixin" aria-hidden="true"></i> WeChat<br>
+          生信螃蟹 gh_5d27e5921f61
+        </p>
+      </div>
 
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
-          &nbsp;&bull;&nbsp;
-          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
-      </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
-    <p class="theme-by text-muted">
-      Theme by
-      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-    </p>
+       <div class="col-md-4 text-center">
+            <img src="{{ 'img/WeChat.png' | relative_url }}" alt="WeChat QR Code" style="width: 80px; height:auto;">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <p class="theme-by text-muted">
+          Theme by
+          <a href="https://deanattali.com/beautiful-jekyll/" style="color: #777777;">beautiful-jekyll</a>
+        </p>
       </div>
     </div>
+
   </div>
 </footer>
