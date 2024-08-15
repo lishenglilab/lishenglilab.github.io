@@ -7,7 +7,7 @@ permalink: /publication
 
 # Publications
 
-You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8AAAAJ&hl=en) or[ORCiD](https://orcid.org/0000-0001-5430-303X) for more details.<br>
+You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8AAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0001-5430-303X) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2024
