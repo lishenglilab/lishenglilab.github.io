@@ -48,7 +48,6 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8
 - Zhiao Chen, **Shengli Li**\*, Leng Han, and Xianghuo He\*. [Optimized protocol for an inducible rat model of liver tumor with chronic hepatocellular injury, inflammation, fibrosis, and cirrhosis.](https://pubmed.ncbi.nlm.nih.gov/33665633/) *STAR Protocols*.2021 Mar;2(1):100353.
 - Wei Hu#, Yanru Wang#, Zhixiao Fang, Wei He\*, and **Shengli Li**\*. [Integrated characterization of lncRNA-immune interactions in prostate cancer.](https://pubmed.ncbi.nlm.nih.gov/33665192/) *Frontiers in Cell and Developmental Biology*.2021 Feb;9:641891.
 - Zhixiao Fang, Chunjie Jiang\* and **Shengli Li**\*. [The potential regulatory roles of circular RNAs in tumor immunology and immunotherapy.](https://pubmed.ncbi.nlm.nih.gov/33613544/) *Frontiers in Immunology*. 2021 Feb;11:617583.
-- **Shengli Li**#,\*, Zhao Zhang# and Leng Han\*. [3D spheroids propel tumor characterization.](https://pubmed.ncbi.nlm.nih.gov/32423684/) *Trends in Cancer*.2020 Aug;6(8):622-624.
 
 ## Before 2021
 - Zhao Zhang#, Ji Jing#, Youqiong Ye, Zhiao Chen, Ying Jing, **Shengli Li**, Wei Hong, Hang Ruan, Yaoming Liu, Qingsong Hu, Yun Huang, Wenbo Li, Chunru Lin, Lixia Diao\*, Yubin Zhou\*, and Leng Han\*. [Systematic characterization of the dual functional effects of heat shock proteins (HSPs) in cancer hallmarks to aid development of HSP inhibitors.](https://pubmed.ncbi.nlm.nih.gov/33225964/) *Genome Medicine*.2020 Nov 23;12(1):101.
