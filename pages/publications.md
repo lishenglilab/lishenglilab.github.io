@@ -12,6 +12,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8
 
 ## 2025
 - Yuan Li, Zewei Cheng, **Shengli Li**\*, and Jiwei Zhang\*. [Immunotherapy in colorectal cancer: status and strategies.](https://www.sciencedirect.com/science/article/pii/S2405844024173859) *Heliyon*. Volume 11, Issue 1, 15 January 2025, e41354.
+
 ## 2024
 - Zhiqiang Zhang, Shan Wang, Lulu Jiang, Jianwen Wei, Chang Lu, **Shengli Li**, Yizhu Diao, Zhongcheng Feng, Shuo He, Tingting Tan, Yisheng Yang, Kexin Zou, Jiantao Shi, James Lin, Liye Chen\*, Chaohui Bao\*, Jian Fei\*, and Hai Fang\*. [Priority index for critical Covid-19 identifies clinically actionable targets and drugs](https://pubmed.ncbi.nlm.nih.gov/38366110/). *Communications Biology*. 2024 Feb 16;7(1):189.
 - Jiling Feng#, Hao Wu#, and **Shengli Li**\*. [Noncanonical translation of circRNAs drive antitumor immunity.](https://pubmed.ncbi.nlm.nih.gov/38242823/) *Trends in Cancer*. 2024 Feb;10(2):100-102.
