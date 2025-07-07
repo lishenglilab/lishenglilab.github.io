@@ -2,9 +2,9 @@
 title: yiran_xu
 layout: people
 permalink: /people/yiran_xu
-status: Staff
+status: Postgraduate student
 pname: Yiran Xu
-position: Computational Technician
+position: Postgraduate student
 office: 
 eml: 
 website:
