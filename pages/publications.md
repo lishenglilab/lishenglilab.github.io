@@ -9,6 +9,8 @@ permalink: /publication
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8AAAAJ&hl=en) or [ORCiD](https://orcid.org/0000-0001-5430-303X) for more details.<br>
 \# Co-first authors; \* Co-corresponding authors
+## 2026
+- Qili Shi#, Haochen Li#, Junjiao Song#, Hao Wu#, Yu Zeng, Jiawen Jiang, **Shengli Li**\*, Zhiao Chen\*, and Xianghuo He\*.[Human Messenger RNA Harbors Widespread Noncoding Splice Isoforms](). *Briefings in Bioinformatics*. Accepted. 
 
 ## 2025
 - Yuan Li, Zewei Cheng, **Shengli Li**\*, and Jiwei Zhang\*. [Immunotherapy in colorectal cancer: status and strategies.](https://www.sciencedirect.com/science/article/pii/S2405844024173859) *Heliyon*. Volume 11, Issue 1, 15 January 2025, e41354.
