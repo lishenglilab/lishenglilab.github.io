@@ -11,7 +11,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=Nzucqw8
 \# Co-first authors; \* Co-corresponding authors
 ## 2026
 - Qili Shi#, Haochen Li#, Junjiao Song#, **Hao Wu**#, **Yu Zeng**, Jiawen Jiang, **Shengli Li**\*, Zhiao Chen\*, and Xianghuo He\*.[Human Messenger RNA Harbors Widespread Noncoding Splice Isoforms](https://pubmed.ncbi.nlm.nih.gov/41697920/). *Briefings in Bioinformatics*. 2026 Jan 7;27(1):bbag068.
-- Wenying Qiu, **Yu Zeng**, Zhichao Fan, Yue Su, Jiawen Jiang, Qili Shi, Xinrong Li, **Shengli Li**\*, Junjiao Song\*, and Xianghuo He\*. [Novel SLCO2B1 mRNA isoform acts as a noncoding RNA and drives cancer progression through FMR1-mediated protein biosynthesis.] *Cancer Research*. Accepted.
+- Wenying Qiu, **Yu Zeng**, Zhichao Fan, Yue Su, Jiawen Jiang, Qili Shi, Xinrong Li, **Shengli Li**\*, Junjiao Song\*, and Xianghuo He\*. [Novel SLCO2B1 mRNA isoform acts as a noncoding RNA and drives cancer progression through FMR1-mediated protein biosynthesis.](https://aacrjournals.org/cancerres/article/doi/10.1158/0008-5472.CAN-25-4524/776531/An-SLCO2B1-mRNA-Isoform-Acts-as-a-Noncoding-RNA-to) *Cancer Research*. March 26, 2026.
 
 ## 2025
 - Yuan Li, Zewei Cheng, **Shengli Li**\*, and Jiwei Zhang\*. [Immunotherapy in colorectal cancer: status and strategies.](https://www.sciencedirect.com/science/article/pii/S2405844024173859) *Heliyon*. Volume 11, Issue 1, 15 January 2025, e41354.
